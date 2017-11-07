@@ -1,0 +1,99 @@
+<html>
+<head>
+	<title>
+		web application
+	</title>
+<style>
+	{
+		margin:0;
+		padding: 0;
+		border:0;
+	}
+h1,h2,h3{
+	color:red;
+}
+p{
+	background-color: #800808;
+	padding:20px;
+	width:20%;
+	color:#777;
+}
+img{
+	border:5px solid #111;
+	border-radius: 50%;
+}
+
+header{
+	background-color: #333;
+	padding: 20px;
+}
+
+nav{
+	padding: 10x;
+	background-color: #ccf;
+
+}
+
+nav ul li{
+	display:inline;
+
+}
+nav ul{
+	text-decoration: none;
+	list-style-type: none;
+}
+nav ul li{
+	padding: 6px;
+}
+
+nav ul li a{
+	font-size: 20px;
+	text-orientation: none;
+
+}
+div{
+	width:100%;
+	background-color: #435;
+
+}
+div img{
+	width: 20%;
+}
+</style>
+</head>
+<body>
+<style> 
+<nav>
+<background-color: green; </style>
+</nav>
+<header>
+	<h1> systems domain</h1>
+		<nav>
+			<ul>
+				<li><a href="#">home</a></li>
+				<li><a href="#">home</a></li>
+				<li><a href="#">home</a></li>
+			</ul>
+</nav>
+</header>
+<h1> welcome to html</h1>
+<h1> welcome to html</h1>
+<h1> welcome to html</h1>
+<p style="color: #909;"> text message test message<br/>text message<br/>
+
+<div>
+	
+	<img src="baby1.jpg">
+	<img src="baby1.jpg">
+
+</div>
+</body>
+
+</!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+
+</body>
+</html>
